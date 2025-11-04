@@ -6,7 +6,7 @@ import org.openqa.selenium.support.FindBy;
 
 public class HomePage extends BasePage {
 
-	
+	//changes has happended
 	public HomePage(WebDriver driver)
 	{
 		super(driver);
